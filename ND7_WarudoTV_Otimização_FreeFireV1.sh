@@ -34,19 +34,20 @@ optimize_performance()
     settings put global performance_mode 1 >/dev/null
     settings put global performance_mode high 1 >/dev/null
     settings put global game_driver_mode 1 >/dev/null
-    cmd package -m speed com.dts.freefireth >/dev/null
+    cmd package -m speed -f com.dts.freefireth >/dev/null
     sleep 3
     echo ""
     echo "Otimizações aplicadas Para Garena Free Fire ✅"
     echo ""
+    sleep 2
 show_thanks()
-    sleep 3
-    echo ""
+    echo "" 
     echo "================================================"
     echo ""
     echo "💫 OBRIGADO POR USAR O WARUDO OPTIMIZER! 💫"
     echo ""
     echo "================================================"
+    sleep 3
     echo "==============================================="
     echo ""
     echo "Desenvolvido com ❤️ pela equipe Nova Ordem77"
@@ -62,5 +63,5 @@ show_thanks()
     sleep 5
     reboot >/dev/null || \
     am start -a android.intent.action.REBOOT 2>/dev/null
-
+read
 exit 0
