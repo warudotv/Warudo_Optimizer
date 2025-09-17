@@ -8,4 +8,4 @@ adb -d shell sh /data/data/me.piebridge.brevent/brevent.sh
 ```
 Comando Para Ativar o Script:
 ```bash
-sh /storage/emulated/0/Download/ND7_WarudoTV_Otimização_FreeFireV1(Beta).sh
+sh /storage/emulated/0/Download/ND7_WarudoTV_Otimização_FreeFireV1.sh
