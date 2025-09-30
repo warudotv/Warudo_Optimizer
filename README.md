@@ -71,6 +71,8 @@ Passo 2: Configurar Bloco Rápido
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173738_Settings.jpg)
 3. Ative a opção Depuração por Wi-Fi
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173743_Settings.jpg)
+ Atalho da Depuração Wi-Fi Criado no Painel de Controle ✅
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173812_Settings.jpg)
 
 Passo 3: Parear com Brevent
 
