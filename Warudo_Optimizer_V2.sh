@@ -32,10 +32,10 @@ optimize_performance()
     echo "Ativando modo máximo de desempenho..."
     echo ""
     sleep 2
-    settings put global performance_mode 1 >/dev/null
-    settings put global performance_mode high 1 >/dev/null
-    settings put global game_driver_mode 1 >/dev/null
-    cmd package -m speed -f com.dts.freefireth >/dev/null
+    settings put global performance_mode 1
+    settings put global performance_mode high 1
+    settings put global game_driver_mode 1
+    cmd package -m speed -f com.dts.freefireth
 	pm uninstall -k --user 0 com.miui.msa.global
 	pm uninstall -k --user 0 com.xiaomi.joyose
 	pm uninstall -k --user 0 com.miui.daemon
