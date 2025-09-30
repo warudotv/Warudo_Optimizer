@@ -7,8 +7,13 @@
 · Vá em Configurações > Notificações e barra de status.
 · Toque em Estilo das notificações.
 · Selecione Android (em vez do estilo "Clássico" do MIUI/HyperOS).
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0017.jpg)
 
-![Image 1](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0018.jpg)
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0018.jpg)
+
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0020.jpg)
+
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0022.jpg)
 
 2. Ativar Opções do Desenvolvedor
 
