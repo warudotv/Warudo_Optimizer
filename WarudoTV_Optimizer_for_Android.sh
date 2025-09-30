@@ -31,13 +31,13 @@ optimize_performance()
     echo ""
     echo "Ativando modo máximo de desempenho..."
     echo ""
-    settings put global performance_mode 1 >/dev/null
-    settings put global performance_mode high 1 >/dev/null
-    settings put global game_driver_mode 1 >/dev/null
-    cmd package -m speed -f com.dts.freefireth >/dev/null
-pm uninstall -k --user 0 com.miui.msa.global
-pm uninstall -k --user 0 com.xiaomi.joyose
-pm uninstall -k --user 0 com.miui.daemon
+    settings put global performance_mode 1
+    settings put global performance_mode high 1
+    settings put global game_driver_mode 1
+    cmd package -m speed -f com.dts.freefireth
+    pm uninstall -k --user 0 com.miui.msa.global
+    pm uninstall -k --user 0 com.xiaomi.joyose
+    pm uninstall -k --user 0 com.miui.daemon
     sleep 13
     echo ""
     echo "Otimizações aplicadas Para Garena Free Fire e Aparelhos Xiaomi com MIUI/HyperOS ✅"
@@ -62,8 +62,8 @@ show_thanks()
     echo ""
     echo "🚀 Reiniciando!"
     echo ""
-    sleep 10
+    sleep 5
     reboot >/dev/null || \
-    am start -a android.intent.action.REBOOT 2>/dev/null
+    am start -a android.intent.action.REBOOT
 read
 exit 0
