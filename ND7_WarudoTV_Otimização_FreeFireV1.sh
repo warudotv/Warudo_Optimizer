@@ -35,10 +35,7 @@ optimize_performance()
     settings put global performance_mode high 1 >/dev/null
     settings put global game_driver_mode 1 >/dev/null
     cmd package -m speed -f com.dts.freefireth >/dev/null
-    pm uninstall -k --user 0 com.miui.msa.global
-    pm uninstall -k --user 0 com.xiaomi.joyose
-    pm uninstall -k --user 0 com.miui.daemon
-    sleep 7
+    sleep 9
     echo ""
     echo "Otimizações aplicadas Para Garena Free Fire ✅"
     echo ""
@@ -63,7 +60,7 @@ show_thanks()
     echo ""
     echo "🚀 Reiniciando agora!"
     echo ""
-    sleep 
+    sleep 1
     reboot >/dev/null || \
     am start -a android.intent.action.REBOOT 2>/dev/null
 read
