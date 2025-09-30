@@ -16,24 +16,22 @@ Notificações e barra de status.
 2. Ativar Opções do Desenvolvedor
 
 · Ainda em Configurações > Sobre o telefone.
-· Clique em Versão do OS 8 vezes seguidas.
-· Você verá a mensagem: “Opções do desenvolvedor ativadas”.
+· Clique em Versão do OS / Versão da MIUI.
+· Clique 8 vezes seguidas.
+· Você verá um popup abaixo: “Opções do desenvolvedor ativadas”.
 
 ![Image 1](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0015.jpg)
 
 3. Ativar Depuração Sem Fio (Via Blocos Rápidos)
 
-· Vá em Configurações > Configurações adicionais > Opções do desenvolvedor.
-· Desça até Blocos de desenvolvedor para configurações rápidas.
-· Ative Depuração sem fios.
-· ✅ Agora você terá um atalho na central de controle para ativar/desativar rapidamente.
-
+· Ainda em Configurações > Role até as Configurações adicionais.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0016.jpg)
-
+> Opções do desenvolvedor.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0014.jpg)
-
+· Desça até Blocos de desenvolvedor para configurações rápidas.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0021.jpg)
-
+· Ative Depuração sem fio!
+· ✅ Agora você terá um atalho na central de controle para ativar/desativar rapidamente.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0022.jpg)
 
 
