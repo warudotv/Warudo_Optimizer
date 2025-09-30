@@ -31,7 +31,7 @@ clear_cache() {
     echo "Parando processos 🛑 e Limpando cache 🧹"
     echo ""
     am force-stop com.dts.freefireth >/dev/null 2>&1
-    pm clear com.dts.freefireth >/dev/null 2>&1
+    pm clear --cache-only com.dts.freefireth >/dev/null 2>&1
     sleep 5
     echo ""
     echo "Cache limpo ✅"
