@@ -16,6 +16,8 @@
 · Clique em Versão do OS 8 vezes seguidas.
 · Você verá a mensagem: “Opções do desenvolvedor ativadas”.
 
+![Image 1](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0015.jpg)
+
 3. Ativar Depuração Sem Fio (Via Blocos Rápidos)
 
 · Vá em Configurações > Configurações adicionais > Opções do desenvolvedor.
