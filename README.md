@@ -79,7 +79,6 @@ Passo 3: Parear com Brevent
 3. Um código de 6 dígitos será gerado (ex: 123456)
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173803_Settings.jpg)
 4. E Cole o código de 6 dígitos solicitado na Notificação do Brevent.
-6. Confirme
 
 Comando Para Executar o Script:
 ```bash
