@@ -13,4 +13,4 @@ caso você encontre problemas com game turbo do seu xiaomi.
 
 Use esse comando abaixo no brevent para ativar novamente 
 ```bash
-pm enable com.xiaomi.joyose
+pm enable-user --user 0 com.xiaomi.joyose
