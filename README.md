@@ -38,13 +38,13 @@ Notificações e barra de status.
 4. Emparelhar Dispositivo com Brevent via Wi-Fi
 
 · em Opções do desenvolvedor > Role até Depuração sem fios.
-
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0012.jpg)
 · Ative Depuração sem fios.
-
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0011.jpg)
 · Toque em Emparelhar dispositivo com um cód. de emparelham..
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0010.jpg)
 
 · ✅ Após emparelhar, o dispositivo aparecerá em Dispositivos emparelhados (ex: brevent).
-
 
 Comando Para Executar o Script:
 ```bash
