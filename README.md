@@ -12,7 +12,7 @@
 
 2. Ativar Opções do Desenvolvedor
 
-· Vá em Configurações > Sobre o telefone.
+· Ainda em Configurações > Sobre o telefone.
 · Clique em Versão do OS 8 vezes seguidas.
 · Você verá a mensagem: “Opções do desenvolvedor ativadas”.
 
@@ -24,6 +24,8 @@
 · Desça até Blocos de desenvolvedor para configurações rápidas.
 · Ative Depuração sem fios.
 · ✅ Agora você terá um atalho na central de controle para ativar/desativar rapidamente.
+
+![Texto Alternativo]()
 
 4. Ativar Depuração USB (Requer Chip e Conta Mi)
 
