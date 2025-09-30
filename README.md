@@ -48,37 +48,34 @@ Samsung Device's 🌌
 Passo 1: Ativar Opções do Desenvolvedor
 
 1. Acesse Configurações
-
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173703_One%20UI%20Home.jpg)
 2. Vá em Sobre o Telefone
-
+![Image] (https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173711_Settings.jpg)
 3. Clique em Informações do Software
-
-4. Toque em Versão do One UI 8 vezes consecutivas
-
+![Image] (https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173719_Settings.jpg)
+4. Clique 8 vezes consecutivas em Número da Compilação 
+![Image] (https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173723_Settings.jpg)
 5. Aparecerá a mensagem "As opções do desenvolvedor foram ativadas"
+![Image] (https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173727_Settings.jpg)
 
 Passo 2: Configurar Bloco Rápido
 
 1. Volte para Configurações
-2. Acesse Opções do Desenvolvedor
-3. Vá em Blocos desenv. config. rápidas
-4. Ative a opção Depuração por Wi-Fi
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173732_Settings.jpg)
+2. Vá em Opções do Desenvolvedor e em Seguida, Blocos desenv. config. rápidas!
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173738_Settings.jpg)
+3. Ative a opção Depuração por Wi-Fi
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173743_Settings.jpg)
 
-Passo 3: Ativar Depuração por Wi-Fi
+Passo 3: Parear com Brevent
 
-1. Na tela principal das Opções do Desenvolvedor
-2. Vá em Depuração por Wi-Fi
-3. Ative o toggle Depuração por Wi-Fi
-4. Anote o Endereço IP e porta (ex: 192.168.15.7:34303)
+1. Na tela de Depuração por Wi-Fi, Toque em Parear o dispositivo com um código de pareamento
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173800_Settings.jpg)
+3. Um código de 6 dígitos será gerado (ex: 123456)
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173803_Settings.jpg)
+4. E Cole o código de 6 dígitos solicitado na Notificação do Brevent.
+6. Confirme
 
-Passo 4: Parear com Brevent
-
-1. Na tela de Depuração por Wi-Fi
-2. Toque em Parear o dispositivo com um código de pareamento
-3. Um código de 6 dígitos será gerado (ex: 894932)
-4. Abra o Brevent
-5. Cole o código de 6 dígitos quando solicitado
-6. Confirme o pareamento
 Comando Para Executar o Script:
 ```bash
 sh /storage/emulated/0/Download/Warudo_Optimizer_V2.sh
