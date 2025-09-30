@@ -1,9 +1,9 @@
 # Warudo Optimizer 🔥
 
-📋 Passo a Passo: Configurar Depuração Sem Fio no Xiaomi (MIUI & HyperOS)
+📋 Passo a Passo:
+Xiaomi Device's (MIUI & HyperOS)
 
 1. Ativar o Estilo de Notificação "Android"
-
 · Vá em Configurações
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0017.jpg)
 Notificações e barra de status.
@@ -14,16 +14,13 @@ Notificações e barra de status.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0018.jpg)
 
 2. Ativar Opções do Desenvolvedor
-
 · Ainda em Configurações > Sobre o telefone.
 · Clique em Versão do OS / Versão da MIUI.
 · Clique 8 vezes seguidas.
 · Você verá um popup abaixo: “Opções do desenvolvedor ativadas”.
-
 ![Image 1](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0015.jpg)
 
 3. Ativar Depuração Sem Fio (Via Blocos Rápidos)
-
 · Ainda em Configurações > Role até as Configurações adicionais.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0016.jpg)
 > Opções do desenvolvedor.
@@ -46,6 +43,42 @@ Notificações e barra de status.
 
 · ✅ Após emparelhar, o dispositivo aparecerá em Dispositivos emparelhados (ex: brevent).
 
+Samsung Device's 🌌
+
+Passo 1: Ativar Opções do Desenvolvedor
+
+1. Acesse Configurações
+
+2. Vá em Sobre o Telefone
+
+3. Clique em Informações do Software
+
+4. Toque em Versão do One UI 8 vezes consecutivas
+
+5. Aparecerá a mensagem "As opções do desenvolvedor foram ativadas"
+
+Passo 2: Configurar Bloco Rápido
+
+1. Volte para Configurações
+2. Acesse Opções do Desenvolvedor
+3. Vá em Blocos desenv. config. rápidas
+4. Ative a opção Depuração por Wi-Fi
+
+Passo 3: Ativar Depuração por Wi-Fi
+
+1. Na tela principal das Opções do Desenvolvedor
+2. Vá em Depuração por Wi-Fi
+3. Ative o toggle Depuração por Wi-Fi
+4. Anote o Endereço IP e porta (ex: 192.168.15.7:34303)
+
+Passo 4: Parear com Brevent
+
+1. Na tela de Depuração por Wi-Fi
+2. Toque em Parear o dispositivo com um código de pareamento
+3. Um código de 6 dígitos será gerado (ex: 894932)
+4. Abra o Brevent
+5. Cole o código de 6 dígitos quando solicitado
+6. Confirme o pareamento
 Comando Para Executar o Script:
 ```bash
 sh /storage/emulated/0/Download/Warudo_Optimizer_V2.sh
