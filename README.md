@@ -4,7 +4,10 @@
 
 1. Ativar o Estilo de Notificação "Android"
 
-· Vá em Configurações > Notificações e barra de status.
+· Vá em Configurações > Notificações e barra de status
+
+![Image 1](URL_da_Imagem)
+
 · Toque em Estilo das notificações.
 · Selecione Android (em vez do estilo "Clássico" do MIUI/HyperOS).
 
