@@ -1,4 +1,4 @@
-# Warudo_Optimizer_Garena_Free_Fire
+# Warudo_Optimizer
 
 Comando Para Ativar o Script:
 ```bash
