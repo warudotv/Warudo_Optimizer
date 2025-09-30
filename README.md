@@ -31,6 +31,8 @@
 
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0021.jpg)
 
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0022.jpg)
+
 
 4. Ativar Depuração USB (Requer Chip e Conta Mi)
 
@@ -38,6 +40,7 @@
   · Depuração USB.
   · Depuração USB (Config. de segurança).
 · 🔒 Nota: Essa opção pode exigir um chip de operadora e login na Mi Account.
+
 
 5. Emparelhar Dispositivo com Brevent via Wi-Fi
 
