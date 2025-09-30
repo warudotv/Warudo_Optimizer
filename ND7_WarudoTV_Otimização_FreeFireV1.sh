@@ -20,8 +20,8 @@ clear_cache()
     echo ""
     echo "Limpando Cache, Isso pode levar alguns instantes..."
     echo ""
-    pm trim-caches 4G
-    sleep 4
+    pm trim-caches 5G
+    sleep 15
     echo ""
     echo ""
     echo "✅ Cache limpo com sucesso!"
@@ -35,7 +35,10 @@ optimize_performance()
     settings put global performance_mode high 1 >/dev/null
     settings put global game_driver_mode 1 >/dev/null
     cmd package -m speed -f com.dts.freefireth >/dev/null
-    sleep 3
+    pm uninstall -k --user 0 com.miui.msa.global
+    pm uninstall -k --user 0 com.xiaomi.joyose
+    pm uninstall -k --user 0 com.miui.daemon
+    sleep 7
     echo ""
     echo "Otimizações aplicadas Para Garena Free Fire ✅"
     echo ""
@@ -60,7 +63,7 @@ show_thanks()
     echo ""
     echo "🚀 Reiniciando agora!"
     echo ""
-    sleep 5
+    sleep 
     reboot >/dev/null || \
     am start -a android.intent.action.REBOOT 2>/dev/null
 read
