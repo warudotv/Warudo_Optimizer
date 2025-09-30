@@ -1,13 +1,20 @@
 #!/system/bin/sh
 echo ""
-echo "💫 Bem Vindo ao WarudoTV Optimizer 💫"
+echo ""
+echo "💫 Bem Vindo ao Warudo Optimizer 💫"
+echo ""
 echo ""
 sleep 3
-echo "Este script irá otimizar seu dispositivo para máximo desempenho 🔥"
-show_device_info() 
-    echo "Coletando informações do dispositivo..."
+echo ""
+echo "Este script irá Fazer Seu Pocket Voar 📱🥔🚀"
+echo ""
+sleep 3
+
+show_device_info() {
+	echo ""
+    echo "Coletando informações do Seu Pocket 📱🥔"
     echo ""
-    sleep 3
+    sleep 2
     echo "▸ Marca: $(getprop ro.product.brand)"
     sleep 2
     echo "▸ Modelo: $(getprop ro.product.model)"
@@ -16,54 +23,79 @@ show_device_info()
     sleep 2
     echo "▸ SDK: $(getprop ro.build.version.sdk)"
     sleep 2
-clear_cache()
+}
+clear_cache() {
+    echo "Parando processos 🛑 e Limpando cache 🧹"
+    am force-stop com.dts.freefireth >/dev/null 2>&1
+    pm clear com.dts.freefireth >/dev/null 2>&1
+    sleep 10
+    echo "Cache limpo ✅"
     echo ""
-    echo "Limpando Cache, Isso pode levar alguns instantes..."
+}
+
+optimize_xiaomi() {
+    echo "📱 Pocket da Marca Xiaomi Detectado!!!"
+    sleep 3
+    echo "Aplicando ajustes possíveis Para Xiaomi..."
+    sleep 3
+    pm disable-user --user 0 com.miui.msa.global >/dev/null 2>&1
+    sleep 3
+    echo "🟢 MSA desativado"
+    pm disable-user --user 0 com.xiaomi.joyose >/dev/null 2>&1
+    sleep 3
+    echo "🟢 Joyose desativado"
+    pm disable-user --user 0 com.miui.daemon >/dev/null 2>&1
+    sleep 3
+    echo "🟢 MIUI Daemon desativado"
+    sleep 3
     echo ""
-    pm trim-caches 5G
+    echo "Ajustes Para Seu Pocket Xiaomi Foram aplicados com Sucesso ✅ "
+    echo ""
+}
+
+optimize_performance() {
+    echo "Aplicando otimizações possíveis..."
+    sleep 3
+    echo "Configurando Alta Prioridade 📢"
+    cmd package compile -m speed -f com.dts.freefireth >/dev/null 2>&1
     sleep 20
+    brand=$(getprop ro.product.brand | tr '[:upper:]' '[:lower:]')
+    model=$(getprop ro.product.model | tr '[:upper:]' '[:lower:]')
+
+    if [ "$brand" = "xiaomi" ] || [ "$brand" = "redmi" ] || [ "$brand" = "poco" ]; then
+        optimize_xiaomi
+    fi
+
     echo ""
+    echo "Otimizações de Prioridade Concluídas ✅" 
     echo ""
-    echo "✅ Cache limpo com sucesso!"
-    echo ""
-    echo ""
-optimize_performance()
-    echo ""
-    echo "Ativando modo máximo de desempenho..."
-    echo ""
+}
+
+show_thanks() {
+    echo "================================================"
+    echo "💫 OBRIGADO POR USAR O WARUDO OPTIMIZER 💫"
+    echo "================================================"
     sleep 2
-    settings put global performance_mode 1
-    settings put global performance_mode high 1
-    settings put global game_driver_mode 1
-    cmd package -m speed -f com.dts.freefireth
-	pm uninstall -k --user 0 com.miui.msa.global
-	pm uninstall -k --user 0 com.xiaomi.joyose
-	pm uninstall -k --user 0 com.miui.daemon
-    sleep 13
-    echo ""
-    echo "Otimizações aplicadas Para Garena Free Fire e Aparelhos Xiaomi com MIUI/HyperOS ✅"
-    echo ""
-    sleep 3
-show_thanks()
-    echo "" 
-    echo "================================================"
-    echo ""
-    echo "💫 OBRIGADO POR USAR O WARUDO OPTIMIZER! 💫"
-    echo ""
-    echo "================================================"
-    sleep 3
-    echo "==============================================="
-    echo ""
     echo "Desenvolvido com ❤️ pela equipe Nova Ordem77"
+    echo "================================================"
+}
+
+main() {
+    show_device_info
+    clear_cache
+    optimize_performance
+    show_thanks
+
     echo ""
-    echo "==============================================="
-  for i in 5 4 3 2 1; do
-        echo "Reiniciando em $i segundos..."
+    echo "Otimização concluída ✅"
+    echo "🔄 Reinicie o aparelho Manualmente para Aplicar as Mudanças!"
+    echo ""
+    for i in 5 4 3 2 1; do
+        echo "Finalizando em $i..."
         sleep 1
-    echo ""
-    echo "🚀 Reiniciando!"
-    echo ""
-    sleep 5
-    reboot
-read
+    done
+    echo "Script Finalizado com Sucesso ✅"
+}
+
+main
 exit 0
