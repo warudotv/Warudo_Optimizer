@@ -25,7 +25,12 @@
 · Ative Depuração sem fios.
 · ✅ Agora você terá um atalho na central de controle para ativar/desativar rapidamente.
 
-![Texto Alternativo]()
+![Texto Alternativo](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0016.jpg)
+
+![Texto Alternativo](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0021.jpg
+
+![Texto Alternativo](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0022.jpg)
+
 
 4. Ativar Depuração USB (Requer Chip e Conta Mi)
 
