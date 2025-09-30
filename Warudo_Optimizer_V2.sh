@@ -106,7 +106,7 @@ main() {
     echo ""
     echo "Script Finalizado com Sucesso ✅"
     echo ""
-    sleep 3
+    sleep 1
     for i in 5 4 3 2 1; do
         echo ""
         echo "Finalizando em $i..."
