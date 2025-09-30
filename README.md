@@ -29,8 +29,8 @@ Notificações e barra de status.
 > Opções do desenvolvedor.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0014.jpg)
 · Desça até Blocos de desenvolvedor para configurações rápidas.
-![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0021.jpg)
 · Ative Depuração sem fio!
+![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0021.jpg)
 · ✅ Agora você terá um atalho na central de controle para ativar/desativar rapidamente.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0022.jpg)
 
