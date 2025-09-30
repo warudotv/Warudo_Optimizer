@@ -1,5 +1,41 @@
 # Warudo Optimizer 🔥
 
+📋 Passo a Passo: Configurar Depuração Sem Fio no Xiaomi (MIUI & HyperOS)
+
+1. Ativar o Estilo de Notificação "Android"
+
+· Vá em Configurações > Notificações e barra de status.
+· Toque em Estilo das notificações.
+· Selecione Android (em vez do estilo "Clássico" do MIUI/HyperOS).
+
+2. Ativar Opções do Desenvolvedor
+
+· Vá em Configurações > Sobre o telefone.
+· Clique em Versão do OS 8 vezes seguidas.
+· Você verá a mensagem: “Opções do desenvolvedor ativadas”.
+
+3. Ativar Depuração Sem Fio (Via Blocos Rápidos)
+
+· Vá em Configurações > Configurações adicionais > Opções do desenvolvedor.
+· Desça até Blocos de desenvolvedor para configurações rápidas.
+· Ative Depuração sem fios.
+· ✅ Agora você terá um atalho na central de controle para ativar/desativar rapidamente.
+
+4. Ativar Depuração USB (Requer Chip e Conta Mi)
+
+· Nas Opções do desenvolvedor, ative:
+  · Depuração USB.
+  · Depuração USB (Config. de segurança).
+· 🔒 Nota: Essa opção pode exigir um chip de operadora e login na Mi Account.
+
+5. Emparelhar Dispositivo com Brevent via Wi-Fi
+
+· Vá em Opções do desenvolvedor > Depuração sem fios.
+· Ative Depuração sem fios.
+· Toque em Emparelhar dispositivo com um cód. de emparelham..
+· No Brevent (no PC), insira o código de 6 dígitos que aparecer na notificação do Brevent.
+· ✅ Após emparelhar, o dispositivo aparecerá em Dispositivos emparelhados (ex: brevent).
+
 Comando Para Executar o Script:
 ```bash
 sh /storage/emulated/0/Download/Warudo_Optimizer_V2.sh
