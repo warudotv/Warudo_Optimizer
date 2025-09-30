@@ -93,19 +93,19 @@ optimize_performance() {
     sleep 1
     if [ $? -eq 0 ]; then
         echo ""
-        echo "Free Fire Foi Parado 🛑"
+        echo "Free Fire Foi Parado por Segurança 🛑🤚"
     else
         echo "Não Foi Possível Parar o Free Fire ❌"
     echo ""
     fi
     sleep 1
-    am clear --cache-only com.dts.freefireth >/dev/null 2>&1
+    pm trim-caches 10G >/dev/null 2>&1
       if [ $? -eq 0 ]; then
         echo ""
-        echo "Cache Limpo do Free Fire ✅"
+        echo "Cache Limpo ✅"
     else
         echo ""
-        echo "Não Foi Possível Limpar o Cache do Free Fire ❌"
+        echo "Não Foi Possível Limpar o Cache ❌"
     fi
     cmd package compile -m speed -f com.dts.freefireth >/dev/null 2>&1
     if [ $? -eq 0 ]; then
