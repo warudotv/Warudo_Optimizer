@@ -47,15 +47,20 @@ Samsung Device's 🌌
 
 Passo 1: Ativar Opções do Desenvolvedor
 
-1. Acesse Configurações
+1. Acesse Configurações.
+
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173703_One%20UI%20Home.jpg)
-2. Vá em Sobre o Telefone
+
+2. Vá em Sobre o Telefone.
 ![Image] (https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173711_Settings.jpg)
-3. Clique em Informações do Software
+
+3. Clique em Informações do Software.
 ![Image] (https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173719_Settings.jpg)
-4. Clique 8 vezes consecutivas em Número da Compilação 
+4. Clique 8 vezes consecutivas em Número da Compilação.
+
 ![Image] (https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173723_Settings.jpg)
-5. Aparecerá a mensagem "As opções do desenvolvedor foram ativadas"
+5. Aparecerá a mensagem "As opções do desenvolvedor foram ativadas".
+
 ![Image] (https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/Screenshot_20250930_173727_Settings.jpg)
 
 Passo 2: Configurar Bloco Rápido
