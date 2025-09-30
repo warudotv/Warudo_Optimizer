@@ -1,4 +1,4 @@
-# Warudo_Optimizer
+# Warudo Optimizer
 
 Comando Para Ativar o Script:
 ```bash
