@@ -35,21 +35,16 @@ Notificações e barra de status.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0022.jpg)
 
 
-4. Ativar Depuração USB (Requer Chip e Conta Mi)
+4. Emparelhar Dispositivo com Brevent via Wi-Fi
 
-· Nas Opções do desenvolvedor, ative:
-  · Depuração USB.
-  · Depuração USB (Config. de segurança).
-· 🔒 Nota: Essa opção pode exigir um chip de operadora e login na Mi Account.
+· em Opções do desenvolvedor > Role até Depuração sem fios.
 
-
-5. Emparelhar Dispositivo com Brevent via Wi-Fi
-
-· Vá em Opções do desenvolvedor > Depuração sem fios.
 · Ative Depuração sem fios.
+
 · Toque em Emparelhar dispositivo com um cód. de emparelham..
-· No Brevent (no PC), insira o código de 6 dígitos que aparecer na notificação do Brevent.
+
 · ✅ Após emparelhar, o dispositivo aparecerá em Dispositivos emparelhados (ex: brevent).
+
 
 Comando Para Executar o Script:
 ```bash
