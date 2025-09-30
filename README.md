@@ -1,5 +1,4 @@
 # Warudo_Optimizer_Garena_Free_Fire
-Maximum Performance Free Fire 🇧🇷🔥
 
 Comando Para Ativar o Script:
 ```bash
