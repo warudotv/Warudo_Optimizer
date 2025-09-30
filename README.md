@@ -23,16 +23,16 @@ Notificações e barra de status.
 3. Ativar Depuração Sem Fio (Via Blocos Rápidos)
 · Ainda em Configurações > Role até as Configurações adicionais.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0016.jpg)
-> Opções do desenvolvedor.
+4. Opções do desenvolvedor.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0014.jpg)
-· Desça até Blocos de desenvolvedor para configurações rápidas.
+5. Desça até Blocos de desenvolvedor para configurações rápidas.
 · Ative Depuração sem fio!
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0021.jpg)
-· ✅ Agora você terá um atalho na central de controle para ativar/desativar rapidamente.
+6. Agora você terá um atalho na central de controle para ativar/desativar rapidamente ✅.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0022.jpg)
 
 
-4. Emparelhar Dispositivo com Brevent via Wi-Fi
+5. Emparelhar Dispositivo com Brevent via Wi-Fi
 
 · em Opções do desenvolvedor > Role até Depuração sem fios.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0012.jpg)
