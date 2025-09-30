@@ -5,9 +5,12 @@ Comando Para Ativar o Script:
 sh /storage/emulated/0/Download/WarudoTV_Optimizer_V2.sh
 
 ```
-⚠️ Atenção Usuário de Xiaomi com Interface MIUI/HyperOS ⚠️
+⚠️ Atenção Usuário de Xiaomi com MIUI/HyperOS ⚠️
+
 O Joyose é um arquivo que funciona conjunto com game turbo! 
+
 caso você encontre problemas com game turbo do seu xiaomi.
-coloca esse comando abaixo no brevent para ativar novamente 
+
+Use esse comando abaixo no brevent para ativar novamente 
 ```bash
 pm enable com.xiaomi.joyose
