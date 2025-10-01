@@ -47,42 +47,6 @@ Como Emparelhar Dispositivo com Brevent via Wi-Fi ⚙.
 
 · ✅ Após emparelhar, o dispositivo aparecerá em Dispositivos emparelhados (brevent).
 
-Samsung Device's 🌌
-
-Passo 1: Ativar Opções do Desenvolvedor
-
-1. Acesse Configurações
-
-2. Vá em Sobre o Telefone
-
-3. Clique em Informações do Software
-
-4. Toque em Versão do One UI 8 vezes consecutivas
-
-5. Aparecerá a mensagem "As opções do desenvolvedor foram ativadas"
-
-Passo 2: Configurar Bloco Rápido
-
-1. Volte para Configurações
-2. Acesse Opções do Desenvolvedor
-3. Vá em Blocos desenv. config. rápidas
-4. Ative a opção Depuração por Wi-Fi
-
-Passo 3: Ativar Depuração por Wi-Fi
-
-1. Na tela principal das Opções do Desenvolvedor
-2. Vá em Depuração por Wi-Fi
-3. Ative o toggle Depuração por Wi-Fi
-4. Anote o Endereço IP e porta (ex: 192.168.15.7:34303)
-
-Passo 4: Parear com Brevent
-
-1. Na tela de Depuração por Wi-Fi
-2. Toque em Parear o dispositivo com um código de pareamento
-3. Um código de 6 dígitos será gerado (ex: 894932)
-4. Abra o Brevent
-5. Cole o código de 6 dígitos quando solicitado
-6. Confirme o pareamento
 Comando Para Executar o Script:
 ```bash
 sh /storage/emulated/0/Download/Warudo_Optimizer_V2.sh
@@ -109,7 +73,9 @@ Ativar MSA (App De Anúncios do Celular Xiaomi) (Opcional)
 pm enable-user --user 0 com.miui.msa.global
 
 ```
-Gostou do Meu Projeto? Me Ajude com uma Doação! (Opcional)
+Gostou do Meu Projeto? Me Ajude com uma Doação! (Opcional):
+
+
 ![PayPal](https://img.shields.io/badge/Doa%C3%A7%C3%A3o-green?style=flat-square&logo=paypal&logoColor=blue&logoSize=appveyor&label=PayPal&color=Blue&cacheSeconds=3600&link=https%3A%2F%2Fwww.paypal.com%2Fdonate%2F%3Fbusiness%3DFQ3GNU47EP3MY%26no_recurring%3D1%26item_name%3DTem%2BR%25241%252C50%2Ba%25C3%25AD%2BPaiz%25C3%25A3o%3F%2B%25F0%259F%25A5%25BA%26currency_code%3DBRL)
 ![MercadoPago](https://img.shields.io/badge/build-warudo-green?style=flat-square&logo=mercadopago&logoColor=blue&logoSize=appveyor&label=Mercado%20Pago&labelColor=white&color=Blue&cacheSeconds=3600&link=https%3A%2F%2Flink.mercadopago.com.br%2Fwarudo)
 ![PicPay](https://img.shields.io/badge/build-warudo-green?style=flat-square&logo=picpay&logoColor=green&logoSize=appveyor&label=PicPay&labelColor=white&color=Blue&cacheSeconds=3600&link=https%3A%2F%2Fpicpay.me%2Fwarudo750%2F0.5)
