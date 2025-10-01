@@ -1,8 +1,9 @@
 # Warudo Optimizer 🔥
 
 📋 Passo a Passo:
-Xiaomi Device's (MIUI & HyperOS) 
-Configurações Necessarias: Ativar o Estilo de Notificação "Android"
+Xiaomi Device's (MIUI & HyperOS)
+
+Ativar o Estilo de Notificação "Android" 💡
 
 1. Vá em Configurações
 2. Notificações e barra de status.
@@ -10,13 +11,13 @@ Configurações Necessarias: Ativar o Estilo de Notificação "Android"
 4. Selecione Android (em vez do estilo "Clássico" do MIUI/HyperOS).
 ![](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0018.jpg)
 
-5. Ativar Opções do Desenvolvedor
+5. Ativar Opções do Desenvolvedor ⚙.
 6. Ainda em Configurações > Sobre o telefone.
 7. Clique em Versão do OS / Número da MIUI e Clique 8 vezes seguidas.
 8. Você verá um popup abaixo: “Opções do desenvolvedor ativadas”.
 ![Image 1](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0015.jpg)
 
-Ativar Depuração Sem Fio (Via Blocos Rápidos) ✅.
+Ativar Depuração Sem Fio 📲 (Via Blocos Rápidos) ✅.
 9. Ainda em Configurações > Role até as Configurações adicionais.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0016.jpg)
 10. Opções do desenvolvedor.
@@ -27,7 +28,7 @@ Ativar Depuração Sem Fio (Via Blocos Rápidos) ✅.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0022.jpg)
 
 
-Como Emparelhar Dispositivo com Brevent via Wi-Fi ✅
+Como Emparelhar Dispositivo com Brevent via Wi-Fi ⚙.
 
 1. em Opções do desenvolvedor > Role até Depuração sem fios.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0012.jpg)
