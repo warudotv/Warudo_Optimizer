@@ -11,22 +11,24 @@ Ativar o Estilo de Notificação "Android" 💡
 4. Selecione Android (em vez do estilo "Clássico" do MIUI/HyperOS).
 ![](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0018.jpg)
 
-5. Ativar Opções do Desenvolvedor ⚙.
-6. Ainda em Configurações > Sobre o telefone.
-7. Clique em Versão do OS / Número da MIUI e Clique 8 vezes seguidas.
-8. Você verá um popup abaixo: “Opções do desenvolvedor ativadas”.
+Como Ativar Opções do Desenvolvedor no Xiaomi ⚙.
+
+
+5. Ainda em Configurações > Sobre o telefone.
+6. Clique em Versão do OS / Número da MIUI e Clique 8 vezes seguidas.
+7. Você verá um popup abaixo: “Opções do desenvolvedor ativadas”.
 ![Image 1](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0015.jpg)
 
 Ativar Depuração Sem Fio 📲 (Via Blocos Rápidos) ✅.
 
 
-9. Ainda em Configurações > Role até as Configurações adicionais.
+8. Ainda em Configurações > Role até as Configurações adicionais.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0016.jpg)
-10. Opções do desenvolvedor.
+9. Opções do desenvolvedor.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0014.jpg)
-11. Desça até Blocos de desenvolvedor para configurações rápidas e Ative Depuração sem fio!
+10. Desça até Blocos de desenvolvedor para configurações rápidas e Ative Depuração sem fio!
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0021.jpg)
-12. Agora você terá um atalho na central de controle para ativar/desativar rapidamente ✅.
+11. Agora você terá um atalho na central de controle para ativar/desativar rapidamente ✅.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0022.jpg)
 
 
