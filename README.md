@@ -103,3 +103,10 @@ pm enable-user --user 0 com.miui.daemon
 Ativar MSA (App De Anúncios do Celular Xiaomi) (Opcional)
 ```bash
 pm enable-user --user 0 com.miui.msa.global
+
+```
+Gostou do Meu Projeto? Me Ajude com uma Doação! (Opcional)
+![PayPal](https://img.shields.io/badge/Doa%C3%A7%C3%A3o-green?style=flat-square&logo=paypal&logoColor=blue&logoSize=appveyor&label=PayPal&color=Blue&cacheSeconds=3600&link=https%3A%2F%2Fwww.paypal.com%2Fdonate%2F%3Fbusiness%3DFQ3GNU47EP3MY%26no_recurring%3D1%26item_name%3DTem%2BR%25241%252C50%2Ba%25C3%25AD%2BPaiz%25C3%25A3o%3F%2B%25F0%259F%25A5%25BA%26currency_code%3DBRL)
+![MercadoPago](https://img.shields.io/badge/build-warudo-green?style=flat-square&logo=mercadopago&logoColor=blue&logoSize=appveyor&label=Mercado%20Pago&labelColor=white&color=Blue&cacheSeconds=3600&link=https%3A%2F%2Flink.mercadopago.com.br%2Fwarudo)
+![PicPay](https://img.shields.io/badge/build-warudo-green?style=flat-square&logo=picpay&logoColor=green&logoSize=appveyor&label=PicPay&labelColor=white&color=Blue&cacheSeconds=3600&link=https%3A%2F%2Fpicpay.me%2Fwarudo750%2F0.5)
+![NuBank](https://img.shields.io/badge/build-Pix-green?style=flat-square&logo=nubank&logoColor=purple&logoSize=appveyor&label=NuBank&labelColor=white&color=Blue&cacheSeconds=3600&link=https%3A%2F%2Fnubank.com.br%2Fcobrar%2Fke2ok%2F68dc8235-2165-4be6-83fe-fe3cd4fd433e)
