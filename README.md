@@ -18,6 +18,8 @@ Ativar o Estilo de Notificação "Android" 💡
 ![Image 1](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0015.jpg)
 
 Ativar Depuração Sem Fio 📲 (Via Blocos Rápidos) ✅.
+
+
 9. Ainda em Configurações > Role até as Configurações adicionais.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0016.jpg)
 10. Opções do desenvolvedor.
