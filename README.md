@@ -15,33 +15,37 @@ Como Ativar Opções do Desenvolvedor no Xiaomi ⚙.
 
 
 5. Ainda em Configurações > Sobre o telefone.
-6. Clique em Versão do OS / Número da MIUI e Clique 8 vezes seguidas.
+6. Clique 8 vezes seguidaS em Versão do OS / Número da MIUI.
 7. Você verá um popup abaixo: “Opções do desenvolvedor ativadas”.
 ![Image 1](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0015.jpg)
 
+
+
 Ativar Depuração Sem Fio 📲 (Via Blocos Rápidos) ✅.
 
-
-8. Ainda em Configurações > Role até as Configurações adicionais.
+8. Ainda em Configurações > Role até as Configurações adicionais > Opções do desenvolvedor.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0016.jpg)
-9. Opções do desenvolvedor.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0014.jpg)
-10. Desça até Blocos de desenvolvedor para configurações rápidas e Ative Depuração sem fio!
+
+
+12. Desça até Blocos de desenvolvedor para configurações rápidas e Ative Depuração sem fio!
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0021.jpg)
-11. Agora você terá um atalho na central de controle para ativar/desativar rapidamente ✅.
+
+
+14. Agora você terá um atalho na central de controle para ativar/desativar rapidamente ✅.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0022.jpg)
 
 
 Como Emparelhar Dispositivo com Brevent via Wi-Fi ⚙.
 
-1. em Opções do desenvolvedor > Role até Depuração sem fios.
-![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0012.jpg)
-2. Ative Depuração sem fios.
+1. em Opções do desenvolvedor > Role até Depuração sem fios e Ative Depuração sem fios.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0011.jpg)
-3. Toque em Emparelhar dispositivo com um cód. de emparelham..
+
+
+2. Toque em Emparelhar dispositivo com um cód. de emparelham..
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0010.jpg)
 
-· ✅ Após emparelhar, o dispositivo aparecerá em Dispositivos emparelhados (ex: brevent).
+· ✅ Após emparelhar, o dispositivo aparecerá em Dispositivos emparelhados (brevent).
 
 Samsung Device's 🌌
 
