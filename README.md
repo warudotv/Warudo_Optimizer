@@ -6,7 +6,7 @@ Xiaomi Device's (MIUI & HyperOS)
 1. Ativar o Estilo de Notificação "Android"
 · Vá em Configurações
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0017.jpg)
-Notificações e barra de status.
+· Notificações e barra de status.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0020.jpg)
 · Toque em Estilo das notificações.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0019.jpg)
@@ -25,8 +25,7 @@ Notificações e barra de status.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0016.jpg)
 4. Opções do desenvolvedor.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0014.jpg)
-5. Desça até Blocos de desenvolvedor para configurações rápidas.
-· Ative Depuração sem fio!
+5. Desça até Blocos de desenvolvedor para configurações rápidas e Ative Depuração sem fio!
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0021.jpg)
 6. Agora você terá um atalho na central de controle para ativar/desativar rapidamente ✅.
 ![Image](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0022.jpg)
