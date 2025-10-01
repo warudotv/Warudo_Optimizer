@@ -5,11 +5,8 @@ Xiaomi Device's (MIUI & HyperOS)
 
 1. Ativar o Estilo de Notificação "Android"
 · Vá em Configurações
-![](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0017.jpg)
 · Notificações e barra de status.
-![](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0020.jpg)
 · Toque em Estilo das notificações.
-![](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0019.jpg)
 · Selecione Android (em vez do estilo "Clássico" do MIUI/HyperOS).
 ![](https://github.com/warudotv/Warudo_Optimizer/blob/Screenshots/IMG-20250930-WA0018.jpg)
 
